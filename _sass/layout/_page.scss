@@ -11,6 +11,11 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  /* Desktop 150% zoom */
+  @include breakpoint($large) {
+    zoom: 1.5;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }

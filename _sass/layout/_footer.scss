@@ -13,6 +13,11 @@
   width: 100%;
   clear: both;
 
+  /* Desktop 150% zoom */
+  @include breakpoint($large) {
+    zoom: 1.5;
+  }
+
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;

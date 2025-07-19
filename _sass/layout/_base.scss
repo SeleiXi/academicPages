@@ -18,12 +18,7 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
-  /* Desktop 150% zoom */
-  @include breakpoint($large) {
-    transform: scale(1.5);
-    transform-origin: top left;
-    width: 66.67%; /* 100% / 1.5 to maintain layout */
-  }
+
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

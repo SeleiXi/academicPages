@@ -15,6 +15,11 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  /* Desktop 150% zoom */
+  @include breakpoint($large) {
+    zoom: 1.5;
+  }
+
   &::after {
     content: "";
     position: absolute;
