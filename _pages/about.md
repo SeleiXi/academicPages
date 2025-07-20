@@ -19,11 +19,10 @@ I'm a second-year undergraduate student from Hong Kong, studying at Fudan Univer
         </div>
 </div>
 
+<br>
 
 
 # Publication
-
-Most recent publications on [Google Scholar](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Ching+Wing+Kwok#).  
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
@@ -45,7 +44,6 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 ---
 
 # Talks
-
 ### LLM-based AI Agent - AI Agent前沿研究與應用探索   
  
 [video](https://www.bilibili.com/video/BV1wm5mzoE9Q?vd_source=5e1ca873091e0f021eb86f6a8cb727f8&spm_id_from=333.788.videopod.sections)
