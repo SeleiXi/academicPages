@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ching Wing Kwok"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Undergraduate Student at Fudan University"
