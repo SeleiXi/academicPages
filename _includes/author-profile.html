@@ -16,7 +16,8 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    <h3 class="author__name">{{ author.name2 }}</h3>
+    <!-- let name2 put in the middle -->
+    <h3 class="author__name" style="text-align: center;">{{ author.name2 }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
