@@ -19,6 +19,7 @@ I'm a second-year undergraduate student from Hong Kong, studying at Fudan Univer
         </div>
 </div>
 
+<br>
 
 # Publication
 
@@ -33,8 +34,6 @@ Yichen Lu\*, Wei Dai\*, Jiaen Liu\*, <ins>Ching Wing Kwok</ins>*, Zongheng Wu\*,
 [[arxiv]](https://arxiv.org/abs/2507.07306) [[github]](https://github.com/pigeonai-org/ViDove)
 <!-- 在上一行[[arxiv]]()前面寫會議 -->
 
-
----
 
 ### Not Published 
 
