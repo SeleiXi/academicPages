@@ -61,7 +61,7 @@ Since 2025, I've led the backend department of the Danta Team, the largest Compu
 
 [video](https://www.bilibili.com/video/BV1ysRqYXEcq?vd_source=5e1ca873091e0f021eb86f6a8cb727f8&spm_id_from=333.788.videopod.sections)
 
-### Software Development - __复旦大學FDUCSLG講座 - 邁向Tech Giant開發崗：學校中的信息差與開發能力__  
+### Software Development - __復旦大學FDUCSLG講座 - 邁向大廠開發崗：學校中的信息差與開發能力__  
 [video](https://www.bilibili.com/video/BV1Lp9aYdEzR/)
 [poster](https://mp.weixin.qq.com/s/zmZHNGcUMtqHOdmRWDTWfw)  
 ![talks_pic](/images/se_talk.jpg){: width="50%"}
