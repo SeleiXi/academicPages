@@ -38,11 +38,15 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 
 
 # Scholarship
+__Hong Kong Young Technology and Innovation Talent__ (be awarded in 2024)
+
+The Swire Group launched the “Hong Kong Young Technology and Innovation Talent” (“HKYTIT”) programme in 2023. This initiative is designed to support sci-tech innovation and foster people-to-people exchange between the Chinese Mainland and the Hong Kong SAR. The programme is supported by the Office of Hong Kong, Macao and Taiwan Affairs of the Ministry of Education of the People’s Republic of China, the Beijing Office of the Liaison Office of the Central People’s Government in the Hong Kong SAR, the Hong Kong, Macao and Taiwan Affairs Office of the China Association for Science and Technology, and the Innovation and Technology Commission of the Government of Hong Kong SAR of the People’s Republic of China. In 2024, the Hong Kong Subsidized Secondary Schools Council, Hong Kong Direct Subsidy Scheme Schools Council and the Hong Kong Association for Computer Education also joined the programme as co-organisers. HKYTIT aims to provide opportunities for Hong Kong students who have achieved excellent academic results, aspire to engage in sci-tech innovation, and are of good moral character, to study majors related to science and technology at Chinese Mainland universities.
+
 
 # Project Experience
 
 Since 2025, I've led the backend department of the Danta Team, the largest Computer Science and development team at Fudan University. Our team develops an internal forum for Fudan students, which boasts an average of 6,000 active students and over 110,000 posts monthly. Beyond leading the backend department, I've also engaged in server maintenance, HR management and AI agent design for the team.   
-[[website]](https://danxi.fduhole.com/) [[App Store]](https://apps.apple.com/us/app/%E6%97%A6%E6%8C%9E-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%8A%A9%E6%89%8B/id1568629997) [[Play Store]](https://play.google.com/store/apps/details?id=io.github.danxi_dev.dan_xi&hl=zh&pli=1) [[GitHub(backend Repo 1)]](https://github.com/OpenTreeHole/backend) [[Github(backend repo2)]](https://github.com/OpenTreeHole/treehole_next) 
+[[Website]](https://danxi.fduhole.com/) [[App Store]](https://apps.apple.com/us/app/%E6%97%A6%E6%8C%9E-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%8A%A9%E6%89%8B/id1568629997) [[Play Store]](https://play.google.com/store/apps/details?id=io.github.danxi_dev.dan_xi&hl=zh&pli=1) [[GitHub(backend Repo 1)]](https://github.com/OpenTreeHole/backend) [[Github(backend repo2)]](https://github.com/OpenTreeHole/treehole_next) 
 
 ---
 
