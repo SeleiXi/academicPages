@@ -22,10 +22,11 @@ repository               : "seleixi/seleixi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/photo.jpg"
   name             : "Ching Wing Kwok"
+  name2            : "郭政潁"
   # pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at Fudan University"
+  # bio              : "Undergraduate Student at Fudan University"
   location         : "Hong Kong"
   employer         : "Fudan University"
   uri              : # URL
