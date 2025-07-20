@@ -14,9 +14,9 @@
   clear: both;
 
   /* Desktop 150% zoom */
-  @include breakpoint($large) {
-    zoom: 1.5;
-  }
+//   @include breakpoint($large) {
+//     zoom: 1.5;
+//   }
 
   /* sticky footer fix start */
   position: absolute;
