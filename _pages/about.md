@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year undergraduate student from Hong Kong, studying at Fudan University. During my studies at Fudan University, I gained valuable research experience as an intern at the Fudan Natural Language Processing Lab, where I had the privilege of being mentored by Prof. Xipeng Qiu. My research interests include multimodal LLMs, reinforcement learning and LLM-based Agent.
+I'm a year 1 undergraduate student from Hong Kong, studying at Fudan University. During my studies at Fudan University, I gained valuable research experience as an intern at the Fudan Natural Language Processing Lab, where I had the privilege of being mentored by Prof. Xipeng Qiu. My research interests include reinforcement learning and multimodal agent.
 
 # Education
 
