@@ -28,7 +28,7 @@ I'm a year 2 undergraduate student from Hong Kong, studying at Fudan University.
 
 **ViDove: A Translation Agent System with Multimodal Context and Memory-Augmented Reasoning**  
 Yichen Lu\*, Wei Dai\*, Jiaen Liu\*, <ins>Ching Wing Kwok</ins>*, Zongheng Wu\*, Xudong Xiao, Ao Sun, Sheng Fu, Jianyuan Zhan, Yian Wang, Takatomo Saito, Sicheng Lai  
-EMNLP 2025 Demo[[arXiv]](https://arxiv.org/abs/2507.07306) [[GitHub]](https://github.com/pigeonai-org/ViDove)
+EMNLP 2025 Demo. [[arXiv]](https://arxiv.org/abs/2507.07306) [[GitHub]](https://github.com/pigeonai-org/ViDove)
 <!-- 在上一行[[arxiv]]()前面寫會議 -->
 
 **SpeechGPT 2.0-preview**  
