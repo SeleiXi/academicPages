@@ -31,7 +31,7 @@ Yichen Lu\*, Wei Dai\*, Jiaen Liu\*, <ins>Ching Wing Kwok</ins>*, Zongheng Wu\*,
 EMNLP 2025 Demo. [[arXiv]](https://arxiv.org/abs/2507.07306) [[GitHub]](https://github.com/pigeonai-org/ViDove)
 <!-- 在上一行[[arxiv]]()前面寫會議 -->
 
-**SpeechGPT 2.0-preview**  
+**SpeechGPT 2.0**  
 Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye Fei, QingHui Gao, Yitian Gong, <ins>Ching Wing Kwok</ins>, Kexin Huang, Yaozhou Jiang, Xingyu Lu, Shimin Li, Zhengyuan Lin, Ruixiao Li, Qian Tu, Jin Wang, Yang Wang, Siyin Wang, Zhe Xu, Chenchen Yang, Donghua Yu, Yuqian Yao, Yucheng Yuan, Chufan Yu, Dong Zhang, YiWei Zhao, Yuqian Zhang, Jun Zhan, Xin Zhang, Xingjian Zhao, Chengyang Zhu  
 [[Article]](https://www.open-moss.com/en/speechgpt2-preview/) [[GitHub]](https://github.com/OpenMOSS/SpeechGPT-2.0-preview) [[Website]](https://sp2.open-moss.com/) [[HuggingFace]](https://huggingface.co/fnlp/SpeechGPT-2.0-preview-7B)
 
