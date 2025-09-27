@@ -40,7 +40,7 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 # Scholarship
 [__Hong Kong Young Technology and Innovation Talent（香港青年科創英才）__](https://www.swire.com/en/community/hkytit.php) 
 
-__The scholarship is only awarded to 100 students each year.__
+__<ins>The scholarship is only awarded to 100 students each year.</ins>__
 
 The Swire Group launched the “Hong Kong Young Technology and Innovation Talent” (“HKYTIT”) programme in 2023. This initiative is designed to support sci-tech innovation and foster people-to-people exchange between the Chinese Mainland and the Hong Kong SAR. The programme is supported by the Office of Hong Kong, Macao and Taiwan Affairs of the Ministry of Education of the People’s Republic of China, the Beijing Office of the Liaison Office of the Central People’s Government in the Hong Kong SAR, the Hong Kong, Macao and Taiwan Affairs Office of the China Association for Science and Technology, and the Innovation and Technology Commission of the Government of Hong Kong SAR of the People’s Republic of China. In 2024, the Hong Kong Subsidized Secondary Schools Council, Hong Kong Direct Subsidy Scheme Schools Council and the Hong Kong Association for Computer Education also joined the programme as co-organisers. HKYTIT aims to provide opportunities for Hong Kong students who have achieved excellent academic results, aspire to engage in sci-tech innovation, and are of good moral character, to study majors related to science and technology at Chinese Mainland universities.
 
