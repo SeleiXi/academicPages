@@ -47,7 +47,7 @@ The Swire Group launched the “Hong Kong Young Technology and Innovation Talent
 
 [__Baosteel Outstanding Student Award (Taiwan, Hong Kong, and Macau) （宝钢优秀学生奖学金（港澳台））__](http://www.bsef.baosteel.com/#/)
 
-[Award notice](https://www.stuaff.fudan.edu.cn/6e/1f/c10227a749087/page.htm) __(Be awarded as the only student from College of Computer Science and Artificial Intelligence)__
+__[Award notice](https://www.stuaff.fudan.edu.cn/6e/1f/c10227a749087/page.htm) (Be awarded as the only student from College of Computer Science and Artificial Intelligence)__
 
 Each year, 500 students are selected from over 120 universities nationwide (including about 60 students from Taiwan, Hong Kong, and Macau), with Fudan University allocated only 6 spots in total (2 of which are for students from Taiwan, Hong Kong, and Macau). This fund is one of the most prestigious and nationally recognized educational awards in the country, established with capital from State-Owned Enterprises (SOEs), supported and guided by the government, advised and planned by experts, and actively participated in by universities.
 <!-- 每年从全国120余所高校中选举500名学生（其中台湾地区、港澳地区学生60名左右），其中复旦全校只有6个名额（台港澳地区共2个）；该项基金是国有企业出资设立，政府支持指导，专家咨询策划，高校积极参与的全国最具知名度的教育奖项之一。 -->
