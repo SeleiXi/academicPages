@@ -38,7 +38,7 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 
 
 # Scholarship
-[__Hong Kong Young Technology and Innovation Talent（香港青年科創英才計劃）__](https://www.swire.com/en/community/hkytit.php) 
+[__Hong Kong Young Technology and Innovation Talent（香港青年科創英才）__](https://www.swire.com/en/community/hkytit.php) 
 
 __The scholarship is only awarded to 100 students.__
 
