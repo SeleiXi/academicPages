@@ -38,19 +38,25 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 
 
 # Scholarship
-[__Hong Kong Young Technology and Innovation Talent（香港青年科創英才）__](https://www.swire.com/en/community/hkytit.php) 
+
+[__Hong Kong Young Technology and Innovation Talent（香港青年科創英才）(2024)__](https://www.swire.com/en/community/hkytit.php) 
 
 __<ins>The scholarship is only awarded to 100 students each year.</ins>__
 
 The Swire Group launched the “Hong Kong Young Technology and Innovation Talent” (“HKYTIT”) programme in 2023. This initiative is designed to support sci-tech innovation and foster people-to-people exchange between the Chinese Mainland and the Hong Kong SAR. The programme is supported by the Office of Hong Kong, Macao and Taiwan Affairs of the Ministry of Education of the People’s Republic of China, the Beijing Office of the Liaison Office of the Central People’s Government in the Hong Kong SAR, the Hong Kong, Macao and Taiwan Affairs Office of the China Association for Science and Technology, and the Innovation and Technology Commission of the Government of Hong Kong SAR of the People’s Republic of China. In 2024, the Hong Kong Subsidized Secondary Schools Council, Hong Kong Direct Subsidy Scheme Schools Council and the Hong Kong Association for Computer Education also joined the programme as co-organisers. HKYTIT aims to provide opportunities for Hong Kong students who have achieved excellent academic results, aspire to engage in sci-tech innovation, and are of good moral character, to study majors related to science and technology at Chinese Mainland universities.
 
 
-[__Baosteel Outstanding Student Award（宝钢优秀学生奖学金）__](http://www.bsef.baosteel.com/#/)
+[__Baosteel Outstanding Student Award（宝钢优秀学生奖学金）(2024-2025)__](http://www.bsef.baosteel.com/#/)
 
 __[Award notice](https://www.stuaff.fudan.edu.cn/6e/1f/c10227a749087/page.htm) <ins> (Be awarded as the only student from College of Computer Science and Artificial Intelligence)</ins>__
 
 Each year, 500 students are selected from over 120 universities nationwide (including about 60 students from Taiwan, Hong Kong, and Macau), with Fudan University allocated only 6 spots in total (2 of which are for students from Taiwan, Hong Kong, and Macau). This fund is one of the most prestigious and nationally recognized educational awards in the country, established with capital from State-Owned Enterprises (SOEs), supported and guided by the government, advised and planned by experts, and actively participated in by universities.
 <!-- 每年从全国120余所高校中选举500名学生（其中台港澳地区60名左右），其中复旦全校只有6个名额（台港澳地区共2个）；该项基金是国有企业出资设立，政府支持指导，专家咨询策划，高校积极参与的全国最具知名度的教育奖项之一。 -->
+
+
+[__Fudan University Open Source Pioneer Award（复旦大学开源先锋奖）(2025)__](https://mp.weixin.qq.com/s/J19_OQNp-42vBiQiPGwpaA)
+
+__<ins>Awarded as the only undergraduate student to reach the finals and win the award, and received the Best Popularity Award (awarded to only one person among all participants, with no other level awards)</ins>__
 
 
 
