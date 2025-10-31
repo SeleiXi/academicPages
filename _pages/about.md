@@ -56,11 +56,13 @@ Each year, 500 students are selected from over 120 universities nationwide (incl
 
 [__Fudan University Open Source Pioneer Award（复旦大学开源先锋奖）(2025)__](https://mp.weixin.qq.com/s/J19_OQNp-42vBiQiPGwpaA)
 
-__<ins>Awarded as the only undergraduate student to reach the finals and win the award, and received the Best Popularity Award (awarded to only one person among all participants, with no other level awards)</ins>__
+<ins>Be awarded as the only undergraduate student from College of Computer Science and Artificial Intelligence to reach the finals and win the award, and received the Best Popularity Award (awarded to only one person among all participants, with no other level awards)<ins/>
+
+An award established by Fudan University to recognize students who have made contributions in the field of open source.
 
 [__October Excellent Student Award - Honor Track（十月评优优秀学生荣誉创新试点获得者）(2024)__]
 
-__<ins>Recognized for outstanding academic performance and innovative contributions during the October evaluation period</ins>__
+Recognized for outstanding academic performance and innovative contributions during the October evaluation period
 
 
 
