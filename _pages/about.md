@@ -60,7 +60,7 @@ Each year, 500 students are selected from over 120 universities nationwide (incl
 
 An award established by Fudan University to recognize students who have made contributions in the field of open source.
 
-[__October Excellent Student Award - Honor Track（十月评优优秀学生荣誉创新试点获得者）(2024)__]
+__October Excellent Student Award - Honor Track（十月评优优秀学生荣誉创新试点获得者）(2024)__
 
 Recognized for outstanding academic performance and innovative contributions during the October evaluation period
 
