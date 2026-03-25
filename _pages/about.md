@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a year 2 undergraduate student from Hong Kong, studying at Fudan University. My research interests are mainly in natural language processing and agentic research.
+I'm a year 2 undergraduate student from Hong Kong, studying at Fudan University. My research interests mainly focus on AI agents and agentic systems.
 
 <!-- During my studies at Fudan University, I gained valuable research experience as an intern at the Fudan Natural Language Processing Lab, where I had the privilege of being mentored by Prof. Xipeng Qiu. -->
 
