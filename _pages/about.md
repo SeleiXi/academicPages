@@ -68,13 +68,16 @@ Recognized for outstanding academic performance and innovative contributions dur
 # Open Source Contributions
 
 **Obsidian LiveSync** (11,000+ stars)  
-2nd-ranked contributor and active contributor. Obsidian LiveSync is a popular plugin for real-time synchronization of Obsidian vaults.
+2nd-ranked contributor and active contributor. Obsidian LiveSync is a popular plugin for real-time synchronization of Obsidian vaults.  
+[[GitHub]](https://github.com/vrtmrz/obsidian-livesync)
 
 **codex-mobile** (700+ stars)  
-26 contributions, 3rd-ranked contributor. A mobile client for OpenAI Codex.
+26 contributions, 3rd-ranked contributor. A mobile client for OpenAI Codex.  
+[[GitHub]](https://github.com/aeewws/codex-mobile)
 
 **CodexOnAnyDevices** (100+ stars)  
-Repository owner. A project enabling Codex usage across various devices.
+Repository owner. A project enabling Codex usage across various devices.  
+[[GitHub]](https://github.com/SeleiXi/CodexOnAnyDevices)
 
 **OpenTreeHole + DanXi-Dev** (1,600+ stars combined)  
 Served as a core maintainer of OpenTreeHole and DanXi-Dev, whose team maintains a leading campus service application at Fudan University with over 10,000 monthly active users. Contributed to backend development, PR review, server maintenance, and AI agent development.  
