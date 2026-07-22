@@ -65,14 +65,6 @@ An award established by Fudan University to recognize students who have made con
 
 Recognized for outstanding academic performance and innovative contributions during the October evaluation period
 
-# Project Experience
-
-**Danta Treehole**  
-Since 2025, I've led the backend department of the Danta Team, the largest Computer Science and development team at Fudan University. Our team develops an internal forum for Fudan students, which boasts an average of 6,000 active students and over 110,000 posts monthly. Beyond leading the backend department, I've also engaged in server maintenance, HR management and AI agent design for the team.  
-[[Website]](https://danxi.fduhole.com/) [[App Store]](https://apps.apple.com/us/app/%E6%97%A6%E6%8C%9E-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%8A%A9%E6%89%8B/id1568629997) [[Play Store]](https://play.google.com/store/apps/details?id=io.github.danxi_dev.dan_xi&hl=zh&pli=1) [[GitHub(backend Repo 1)]](https://github.com/OpenTreeHole/backend) [[Github(backend repo2)]](https://github.com/OpenTreeHole/treehole_next)
-
----
-
 # Open Source Contributions
 
 **Obsidian LiveSync** (11,000+ stars)  
@@ -87,6 +79,17 @@ Repository owner. A project enabling Codex usage across various devices.
 **OpenTreeHole + DanXi-Dev** (1,600+ stars combined)  
 Served as a core maintainer of OpenTreeHole and DanXi-Dev, whose team maintains a leading campus service application at Fudan University with over 10,000 monthly active users. Contributed to backend development, PR review, server maintenance, and AI agent development.  
 [[OpenTreeHole]](https://github.com/OpenTreeHole) [[DanXi-Dev]](https://github.com/DanXi-Dev) [[Website]](https://danxi.fduhole.com/)
+
+---
+
+# Project Experience
+
+**Danta Treehole**  
+Since 2025, I've led the backend department of the Danta Team, the largest Computer Science and development team at Fudan University. Our team develops an internal forum for Fudan students, which boasts an average of 6,000 active students and over 110,000 posts monthly. Beyond leading the backend department, I've also engaged in server maintenance, HR management and AI agent design for the team.  
+[[Website]](https://danxi.fduhole.com/) [[App Store]](https://apps.apple.com/us/app/%E6%97%A6%E6%8C%9E-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%8A%A9%E6%89%8B/id1568629997) [[Play Store]](https://play.google.com/store/apps/details?id=io.github.danxi_dev.dan_xi&hl=zh&pli=1) [[GitHub(backend Repo 1)]](https://github.com/OpenTreeHole/backend) [[Github(backend repo2)]](https://github.com/OpenTreeHole/treehole_next)
+
+**World Model Project**  
+Participated in a World Model project: sampled multiple candidate action chunks and their corresponding future trajectories from identical simulator states to train an action-conditioned latent dynamics model; performed autoregressive latent rollouts to predict the long-term consequences of different action sequences; fine-tuned the VLA policy with GRPO using predicted trajectory returns to improve long-horizon planning.
 
 # Talks
 
