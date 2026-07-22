@@ -73,6 +73,21 @@ Since 2025, I've led the backend department of the Danta Team, the largest Compu
 
 ---
 
+# Open Source Contributions
+
+**Obsidian LiveSync** (11,000+ stars)  
+2nd-ranked contributor and active contributor. Obsidian LiveSync is a popular plugin for real-time synchronization of Obsidian vaults.
+
+**codex-mobile** (700+ stars)  
+26 contributions, 3rd-ranked contributor. A mobile client for OpenAI Codex.
+
+**CodexOnAnyDevices** (100+ stars)  
+Repository owner. A project enabling Codex usage across various devices.
+
+**OpenTreeHole + DanXi-Dev** (1,600+ stars combined)  
+Served as a core maintainer of OpenTreeHole and DanXi-Dev, whose team maintains a leading campus service application at Fudan University with over 10,000 monthly active users. Contributed to backend development, PR review, server maintenance, and AI agent development.  
+[[OpenTreeHole]](https://github.com/OpenTreeHole) [[DanXi-Dev]](https://github.com/DanXi-Dev) [[Website]](https://danxi.fduhole.com/)
+
 # Talks
 
 ### LLM-based AI Agent - AI Agent 前沿研究與應用探索
