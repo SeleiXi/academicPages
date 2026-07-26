@@ -43,9 +43,11 @@ Hanfu Chen, Ke Chen, Qinyuan Cheng, Mingshu Chen, Ruifan Deng, Liwei Fan, Zhaoye
 
 [**Hong Kong Young Technology and Innovation Talent（香港青年科創英才）(2024)**](https://www.swire.com/en/community/hkytit.php)
 
-**<ins>The scholarship is only awarded to 100 students each year.</ins>**
+**The scholarship is awarded to only 100 students each year and** aims to provide opportunities for Hong Kong students who have achieved excellent academic results and aspire to engage in sci-tech innovation.
 
+<!--
 The Swire Group launched the “Hong Kong Young Technology and Innovation Talent” (“HKYTIT”) programme in 2023. This initiative is designed to support sci-tech innovation and foster people-to-people exchange between the Chinese Mainland and the Hong Kong SAR. The programme is supported by the Office of Hong Kong, Macao and Taiwan Affairs of the Ministry of Education of the People’s Republic of China, the Beijing Office of the Liaison Office of the Central People’s Government in the Hong Kong SAR, the Hong Kong, Macao and Taiwan Affairs Office of the China Association for Science and Technology, and the Innovation and Technology Commission of the Government of Hong Kong SAR of the People’s Republic of China. In 2024, the Hong Kong Subsidized Secondary Schools Council, Hong Kong Direct Subsidy Scheme Schools Council and the Hong Kong Association for Computer Education also joined the programme as co-organisers. HKYTIT aims to provide opportunities for Hong Kong students who have achieved excellent academic results, aspire to engage in sci-tech innovation, and are of good moral character, to study majors related to science and technology at Chinese Mainland universities.
+-->
 
 [**Bao Steel Scholarship（宝钢优秀学生奖学金）(2024-2025)**](http://www.bsef.baosteel.com/#/)
 
@@ -77,9 +79,9 @@ Recognized for outstanding academic performance and innovative contributions dur
 Repository owner. A project enabling Codex usage across various devices.  
 [[GitHub]](https://github.com/SeleiXi/CodexOnAnyDevices)
 
-**OpenTreeHole + DanXi-Dev** (1,600+ stars combined)  
+**OpenTreeHole + DanXi-Dev** (600+ stars combined)  
 Served as a core maintainer of OpenTreeHole and DanXi-Dev, whose team maintains a leading campus service application at Fudan University with over 10,000 monthly active users. Contributed to backend development, PR review, server maintenance, and AI agent development.  
-[[OpenTreeHole]](https://github.com/OpenTreeHole) [[DanXi-Dev]](https://github.com/DanXi-Dev) [[Website]](https://danxi.fduhole.com/)
+[[OpenTreeHole]](https://github.com/OpenTreeHole) [[DanXi-Dev]](https://github.com/DanXi-Dev) [[Website]](https://danxi.fduhole.com/) [[App Store]](https://apps.apple.com/us/app/%E6%97%A6%E6%8C%9E-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E5%8A%A9%E6%89%8B/id1568629997) [[Play Store]](https://play.google.com/store/apps/details?id=io.github.danxi_dev.dan_xi&hl=zh&pli=1)
 
 ---
 
